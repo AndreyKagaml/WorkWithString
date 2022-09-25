@@ -1,7 +1,6 @@
 package ua.nix.kahamlyk.hw3;
 
-public class AmountOfLessons
-{
+public class AmountOfLessons {
 
     public static String LastLessonTime(int lessons){
         int hours = 9, minutes = 0, lesson = 45, break1 = 5, break2 = 15;
